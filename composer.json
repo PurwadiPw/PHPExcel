@@ -1,0 +1,14 @@
+{
+  "name": "pw/phpexcel",
+  "description": "PHPExcel",
+  "type": "library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Purwadi",
+      "email": "purwadie97@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
